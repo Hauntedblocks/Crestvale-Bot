@@ -1,0 +1,31 @@
+1. Information We Collect
+Orbion only collects the following data:
+
+Server IDs – to identify where the Bot is active.
+
+User IDs – to provide features tied to individual users (e.g., moderation, tracking, responses).
+
+No message content, usernames, emails, or IP addresses are collected.
+
+2. Purpose of Data Collection
+We collect server and user IDs solely to:
+
+Operate and improve core bot functions.
+
+Ensure feature access and customization per server/user.
+
+Maintain bot stability and prevent abuse.
+
+3. Data Storage & Security
+All data is stored securely and is not shared with third parties.
+
+Reasonable measures are taken to protect stored information from unauthorized access.
+
+4. Data Sharing
+We do not sell, share, or distribute any collected data to third parties.
+
+5. Data Retention
+Data is retained indefinitely until Orbion is no longer maintained.
+
+7. Changes to This Policy
+We may update this policy at any time. Continued use of Orbion after changes means you accept the revised policy.
