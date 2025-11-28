@@ -1,38 +1,50 @@
+
+Effective Date: 11/28/2025
+
+Welcome to Crestvale Bot By using our bot or related services (collectively, “Service”), you agree to the following terms:
+
 1. Acceptance of Terms
-By inviting or using Orbion on your server, you agree to be bound by these Terms of Service and our Privacy Policy. If you do not agree with any part of the terms, you may not use the Bot.
 
-2. Description of Service
-Orbion is a Discord all in one bot. The Bot is provided "as is" with no guarantees of uptime, performance, or continued availability.
+By interacting with our bot, you agree to comply with these TOS. If you do not agree, do not use the Service.
 
-3. Usage Requirements
-You agree to:
+2. Closed Source
 
-Use the Bot in accordance with Discord's Terms of Service and Community Guidelines.
+The bot’s code is proprietary and closed-source.
 
-Not use the Bot for illegal, harmful, abusive, or discriminatory purposes.
+You may not copy, reverse-engineer, modify, redistribute, or claim ownership of the bot or its code.
 
-Not exploit, modify, or reverse-engineer the Bot.
+3. Use of Service
 
-4. Server Data & Content
-The Bot may collect basic data (e.g., user IDs, server IDs, message content for logging/response features) as necessary for functionality. By using Orbion, you grant us the right to process this data solely for bot features. For more, see our Privacy Policy.
+You must be at least 13 years old (or meet your country’s legal age).
 
-5. Restrictions
+You agree not to use the Service for unlawful activities or violate Discord’s Terms of Service.
+
+You are responsible for any content or actions performed via the bot in your server.
+
+4. Bot Permissions
+
+Our bot may require permissions such as sending messages, managing roles, or reading channels.
+
+Permissions are only used to provide intended functionality, never for unauthorized data collection.
+
+5. Prohibited Actions
+
 You may not:
 
-Use the Bot to spam, harass, or harm others.
+Exploit, reverse-engineer, or distribute the bot’s code.
 
-Attempt to overload or disable the Bot’s systems.
+Spam, harass, or harm other users.
 
-Sell, sublicense, or monetize the Bot without permission.
+Circumvent Discord’s security or moderation tools.
 
-6. Termination
-We reserve the right to remove Orbion from your server or restrict access to the Bot at any time, for any reason, without notice. Common reasons include violations of these Terms or abuse of the Bot.
+6. Limitation of Liability
 
-7. Disclaimer
-Orbion is provided without warranty of any kind. We are not liable for any damages or data loss resulting from the use or inability to use the Bot.
+The Service is provided “as is.” We are not liable for any damages, data loss, or server issues caused by the bot.
 
-8. Changes to Terms
-We may update these Terms at any time. Continued use of the Bot after changes constitutes your acceptance of the new Terms.
+7. Termination
 
-9. Contact
-For questions or concerns regarding these Terms, contact [your email or Discord tag here].
+We may revoke access if you violate these TOS or Discord’s Terms of Service.
+
+8. Changes
+
+We may update these TOS at any time. Continued use constitutes acceptance of updated terms.
