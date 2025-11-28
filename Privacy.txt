@@ -1,31 +1,45 @@
-1. Information We Collect
-Orbion only collects the following data:
+Privacy Policy
 
-Server IDs – to identify where the Bot is active.
+Effective Date: 11/28/2025
 
-User IDs – to provide features tied to individual users (e.g., moderation, tracking, responses).
+The Crestvale Team respects your privacy. This policy explains what data we collect and how we use it.
 
-No message content, usernames, emails, or IP addresses are collected.
+1. Data We Collect
 
-2. Purpose of Data Collection
-We collect server and user IDs solely to:
+Discord Data: Username, user ID, server ID, roles, and commands executed.
 
-Operate and improve core bot functions.
+Optional Data: Messages or custom inputs if required for features like logs.
 
-Ensure feature access and customization per server/user.
+We do not collect passwords, credit cards, or sensitive personal information.
 
-Maintain bot stability and prevent abuse.
+2. How We Use Data
 
-3. Data Storage & Security
-All data is stored securely and is not shared with third parties.
+To provide and improve bot functionality.
 
-Reasonable measures are taken to protect stored information from unauthorized access.
+To maintain moderation logs or server logs (if enabled).
 
-4. Data Sharing
-We do not sell, share, or distribute any collected data to third parties.
+For troubleshooting or error reporting.
 
-5. Data Retention
-Data is retained indefinitely until Orbion is no longer maintained.
+3. Data Sharing
 
-7. Changes to This Policy
-We may update this policy at any time. Continued use of Orbion after changes means you accept the revised policy.
+We do not sell or share your data with third parties.
+
+Data may be stored on cloud servers or databases necessary for the Service.
+
+4. Data Retention
+
+Data is retained only as long as necessary for the Service or legal obligations.
+
+You can request removal of your data by contacting [Insert Contact Info].
+
+5. Security
+
+Standard security measures are in place, but absolute security cannot be guaranteed.
+
+6. Children’s Privacy
+
+Not intended for children under 13. We do not knowingly collect personal information from children.
+
+7. Changes
+
+We may update this Privacy Policy. Continued use implies acceptance.
